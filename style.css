@@ -38,6 +38,7 @@ html, body {
     border-radius: 30px;
     border: 1px solid black;
     background: rgb(251, 110, 110);
-    box-shadow: 0 0 8px;
+    box-shadow: 0 0 8px black;
+    color: black
 }
 
