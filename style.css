@@ -42,3 +42,14 @@ html, body {
     color: black;
 }
 
+.btn-2 {
+    font-weight: 900;
+    width: 100px;
+    height: 25px;
+    border-radius: 30px;
+    border: 1px solid black;
+    background: purple;
+    box-shadow: 0 0 8px black;
+    color: black;
+}
+
