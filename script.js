@@ -11,5 +11,6 @@ btn.addEventListener('click', function() {
 const btn2 = document.querySelector('#add-btn-cheats');
 
 btn2.addEventListener('click', function() {
-    namber.textContent = "10000";
+    count = count + 1000;
+    namber.textContent = count;
 });
