@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+.block {
+    background: rgb(240, 240, 240);
+    border: 2px solid black;
+    border-radius: 30px;
+    padding: 30px;
+    margin: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.namber {
+    font-size: 24px;
+}
+
+.btn {
+    font-weight: 900;
+    width: 100px;
+    height: 25px;
+    border-radius: 30px;
+    border: 1px solid black;
+    background: rgb(251, 110, 110);
+    box-shadow: 0 0 8px;
+}
+
